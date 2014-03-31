@@ -1,7 +1,7 @@
 # libksba Cookbook
 
-[![Build Status](https://travis-ci.org/americanhonors/chef-libksba.svg?branch=master)][build-status]
-[![Dependency Status](https://gemnasium.com/americanhonors/chef-libksba.svg)][dependency-status]
+[![Build Status](https://travis-ci.org/americanhonors-cookbooks/libksba.svg?branch=master)][build-status]
+[![Dependency Status](https://gemnasium.com/americanhonors-cookbooks/libksba.svg)][dependency-status]
 
 Installs [libksba][libksba].
 
@@ -68,7 +68,7 @@ Use the dev recipe if you need development headers for libksba.
 
 ## License & Authors
 
-* Author:: Tony Burns (<tony.burns@americanhonors.org>)
+* Author:: Tony Burns (<tony.burns@americanhonors-cookbooks.org>)
 
 ```text
 Copyright (c) 2014 Quad Learning, Inc.
@@ -112,8 +112,8 @@ See the License for the specific language governing permissions and
 limitations under the License.
 ```
 
-[build-status]: https://travis-ci.org/americanhonors/chef-libksba
-[dependency-status]: https://gemnasium.com/americanhonors/chef-libksba
+[build-status]: https://travis-ci.org/americanhonors-cookbooks/libksba
+[dependency-status]: https://gemnasium.com/americanhonors-cookbooks/libksba
 [libksba]: http://gnupg.org/related_software/libksba/index.html
 [apt-cookbook]: https://github.com/opscode-cookbooks/apt
 [opscode-cookbooks]: https://github.com/opscode-cookbooks
